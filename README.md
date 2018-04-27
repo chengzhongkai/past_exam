@@ -7,10 +7,13 @@
               [(English)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2016-8-exam-en.pdf)
     + 実技試験 [(日本語)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2016-8-program.pdf), 
               [(English)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2016-8-program-en.pdf),
-              [(solution)](./2016-8-program.html)
+              [(solution)](http://nbviewer.jupyter.org/github/chengzhongkai/past_exam/blob/master/2016-8-program.ipynb)
 - 2016年度 (2015年8月)
-    + 専門科目 [(日本語)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2015-8-exam.pdf), (English)
-    + 実技試験 [(日本語)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2015-8-program.pdf), (English)
+    + 専門科目 [(日本語)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2015-8-exam.pdf), 
+               [(English)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2015-8-exam-en.pdf)
+    + 実技試験 [(日本語)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2015-8-program.pdf), 
+               [(English)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2015-8-program-en.pdf),
+              [(solution)](http://nbviewer.jupyter.org/github/chengzhongkai/past_exam/blob/master/2015-8-program.ipynb)
 - 2015年度 (2014年8月, 2015年2月)
     + 専門科目 [(日本語)](), (English)
     + 実技試験 [(日本語)](), (English)
