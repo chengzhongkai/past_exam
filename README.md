@@ -15,9 +15,12 @@
                [(English)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2015-8-program-en.pdf),
               [(solution)](http://nbviewer.jupyter.org/github/chengzhongkai/past_exam/blob/master/2015-8-program.ipynb)
 - 2015年度 (2014年8月, 2015年2月)
-    + 専門科目 [(日本語)](), (English)
-    + 実技試験 [(日本語)](), (English)
-    + 実技試験 (冬) [(日本語)](), (English)
+    + 専門科目 [(日本語)](), [(English)]()
+    + 実技試験 [(日本語)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2014-8-program.pdf), 
+                  [(English)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2014-8-program-en.pdf)
+    + 実技試験 (冬) [(日本語)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2015-2-program.pdf),
+                      [(English)](http://www.i.u-tokyo.ac.jp/edu/course/ci/pdf/2015-2-program-en.pdf)
+                      [(solution)](http://nbviewer.jupyter.org/github/chengzhongkai/past_exam/blob/master/2015-2-program.ipynb)
 - 2014年度 (2013年8月, 2014年2月)
     + 専門科目 [(日本語)](), (English)
     + 実技試験 [(日本語)](), (English)
