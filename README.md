@@ -61,15 +61,15 @@
 
 ### [一般教育科目](http://www.i.u-tokyo.ac.jp/edu/entra/examarchive.shtml)
 
--３０年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/18math_j.pdf）
+- ３０年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/18math_j.pdf）
 [（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/18math_e.pdf）
--２９年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/17math_j.pdf）
+- ２９年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/17math_j.pdf）
 [（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/17math_e.pdf）
--２８年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/16math_j.pdf）
+- ２８年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/16math_j.pdf）
 [（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/16math_e.pdf）
--２7年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/15math_j.pdf）
+- ２7年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/15math_j.pdf）
 [（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/15math_e.pdf）
--２６年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/14math-j.pdf）
+- ２６年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/14math-j.pdf）
 [（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/14math-e.pdf）
 -２５年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/13math-j.pdf）
 [（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/13math-e.pdf）
