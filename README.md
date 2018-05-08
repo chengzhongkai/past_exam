@@ -57,7 +57,45 @@
 - 2006年度(2006年2月) 実技試験(39KB pdf)
 
 
-### [数理情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/mi/members.shtml)
+### [数理情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/mi/admission.shtml)
+
+### [一般教育科目](http://www.i.u-tokyo.ac.jp/edu/entra/examarchive.shtml)
+
+-３０年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/18math_j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/18math_e.pdf）
+-２９年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/17math_j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/17math_e.pdf）
+-２８年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/16math_j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/16math_e.pdf）
+-２7年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/15math_j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/15math_e.pdf）
+-２６年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/14math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/14math-e.pdf）
+-２５年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/13math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/13math-e.pdf）
+-２４年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/12math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/12math-e.pdf）
+-２３年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/11math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/11math-e.pdf）
+-２２年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/10math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/10math-e.pdf）
+-２１年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/09math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/09math-e.pdf）
+-２０年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/08math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/08math-e.pdf）
+-１９年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/07math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/07math-e.pdf）
+-１８年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/06math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/06math-e.pdf）
+-１７年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/05math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/05math-e.pdf）
+-１６年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/04math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/04math-e.pdf）
+-１５年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/03math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/03math-e.pdf）
+-１４年度ＰＤＦ[（和文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/02math-j.pdf）
+[（英文）]（http://www.i.u-tokyo.ac.jp/edu/entra/pdf/archive/02math-e.pdf）
+
 
 ## Welcome to GitHub Pages
 
